@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(244, 232, 232);
+}
+h1 {
+    color: rgb(109, 172, 152);
+}
+h2 {
+    color: brown;
+}
+a {
+    color: rgb(11, 25, 77);
+    text-decoration: none;
+}
+.bigText {
+    font-size: 30px;
+
+}
+#bigSize {
+    font-size: 24px;
+}
+
+
+ul {
+    list-style: square;
+}
